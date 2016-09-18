@@ -22,9 +22,11 @@ form p {
 button {
   margin: 10px;
   padding: 5px;
-  background: #fff;
+  background: #f6f6f6;
   border: 1px solid #ccc;
   border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
 }
 button:hover {
   background-color: #e6e6e6;
